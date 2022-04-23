@@ -1,4 +1,4 @@
-#HASS CONSULTING COMPANY
+# HASS CONSULTING COMPANY
 
 ## Author : Matilda Kadzo
 
@@ -29,16 +29,15 @@ Create residual plots for your models, and assess heteroskedasticity using Barle
 Challenge your solution by providing insights on how you can make improvements in model improvement.
 
 While performing your regression analysis, you will be required to perform modeling using the given regression techniques then evaluate their performance. You will be then required to provide your observations and recommendation on the suitability of each of the tested models on their appropriateness of solving the given problem.
+* Multiple Linear Regression
 
-Multiple Linear Regression
+* Quantile Regression
 
-Quantile Regression
+* Ridge Regression
 
-Ridge Regression
+* Lasso Regression
 
-Lasso Regression
-
-Elastic Net Regression
+* Elastic Net Regression
 
 Remember to go through the rubric so that you can see how you will be assessed on the above regression techniques.
 
@@ -46,40 +45,40 @@ Remember to go through the rubric so that you can see how you will be assessed o
 The dataset to use for this project can be found by following this link: [http://bit.ly/IndependentProjectWeek7Dataset].
 
 Below is the dataset glossary:
-Id
+- Id
 
-price - Price of the house
+- price - Price of the house
 
-bedrooms - Number of Bedrooms
+- bedrooms - Number of Bedrooms
 
-bathrooms - Number of Bathrooms
+- bathrooms - Number of Bathrooms
 
-sqft_living - Square feet area of living area
+- sqft_living - Square feet area of living area
 
-sqft_lot - Square feet area of parking Layout
+- sqft_lot - Square feet area of parking Layout
 
-floors - Number of Floors
+- floors - Number of Floors
 
-waterfront - Whether waterfront is there or not
+- waterfront - Whether waterfront is there or not
 
-view - Number of Views
+- view - Number of Views
 
-grade - Grades
+- grade - Grades
 
-sqft_above
+- sqft_above
 
-sqft_basement - Square feet area off basement
+- sqft_basement - Square feet area off basement
 
-yr_built - Year the house is built
+- yr_built - Year the house is built
 
-yr_renovated - Year the house is renovated
+- yr_renovated - Year the house is renovated
 
-zipcode - zipcode os the house
+- zipcode - zipcode os the house
 
-lat : Latitude of the house
+- lat : Latitude of the house
 
-lon : Longitude of the house
+- lon : Longitude of the house
 
-sqft_living15
+- sqft_living15
 
-sqft_lot15
+- sqft_lot15
